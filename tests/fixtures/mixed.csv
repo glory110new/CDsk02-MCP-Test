@@ -1,0 +1,9 @@
+Source;External_ID;Vacancy_Title;Salary_From;Published_At
+fixture-example;001;=Analyst;-1000;2026-11-13T09:00:00Z
+fixture-example;002;'Analyst;;2026-11-13
+fixture-example;003;Fixture role 3;;
+fixture-example;011;Fixture role 11;;
+fixture-example;012;Fixture role 12;;
+fixture-example;013;Fixture role 13;;
+fixture-example;014;Fixture role 14;;
+fixture-example;015;Fixture role 15;;

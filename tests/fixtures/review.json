@@ -1,0 +1,39 @@
+[
+  {
+    "Source": "fixture-example",
+    "Vacancy_Title": "Missing fixture identifier"
+  },
+  {
+    "Source": "fixture-example",
+    "External_ID": "001",
+    "Vacancy_Title": "Conflicting sample title"
+  },
+  {
+    "Source": "fixture-example",
+    "External_ID": "016",
+    "Vacancy_Title": "Fixture role 16",
+    "Published_At": "2026-11-13T09:00:00"
+  },
+  {
+    "Source": "fixture-example",
+    "External_ID": "017",
+    "Vacancy_Title": "Fixture role 17",
+    "Published_At": "2026-02-30"
+  },
+  {
+    "Source": "fixture-example",
+    "External_ID": "018",
+    "Vacancy_Title": "First sample variant"
+  },
+  {
+    "Source": "fixture-example",
+    "External_ID": "018",
+    "Vacancy_Title": "Second sample variant"
+  },
+  {
+    "Source": "fixture-example",
+    "External_ID": "019",
+    "Vacancy_Title": "Fixture role 19",
+    "Published_At": "2026-11-13T12:00:00.123456789+03:00"
+  }
+]

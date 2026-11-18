@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "Source": "fixture-example",
+      "External_ID": "001",
+      "Vacancy_Title": "=Analyst",
+      "Salary_From": "-1000.00",
+      "Published_At": "2026-11-13T12:00:00+03:00"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "002",
+      "Vacancy_Title": "'Analyst",
+      "Published_At": "2026-11-13"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "003",
+      "Vacancy_Title": "Fixture role 3"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "004",
+      "Vacancy_Title": "Fixture role 4"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "005",
+      "Vacancy_Title": "Fixture role 5"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "006",
+      "Vacancy_Title": "Fixture role 6"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "007",
+      "Vacancy_Title": "Fixture role 7"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "008",
+      "Vacancy_Title": "Fixture role 8"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "009",
+      "Vacancy_Title": "Fixture role 9"
+    },
+    {
+      "Source": "fixture-example",
+      "External_ID": "010",
+      "Vacancy_Title": "Fixture role 10"
+    }
+  ]
+}
